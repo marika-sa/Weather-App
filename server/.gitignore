@@ -1,0 +1,19 @@
+# build output
+bin/
+obj/
+
+# environment specific
+appsettings.Development.json
+appsettings.json
+
+# visual studio / vscode
+.vs/
+*.user
+*.suo
+
+# dotnet
+*.csproj.user
+
+# os
+.DS_Store
+Thumbs.db
