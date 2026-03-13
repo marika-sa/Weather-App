@@ -1,0 +1,12 @@
+.dropdown {
+    width: 200px;
+    background-color: aliceblue;
+    padding: 0.2rem 0.5rem;
+    border: 2px solid rgb(182, 209, 232);
+    ;
+    border-radius: 5px;
+}
+
+.dropdown:focus {
+    outline: none;
+}

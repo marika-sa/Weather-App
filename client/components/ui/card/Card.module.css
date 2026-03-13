@@ -1,0 +1,15 @@
+.cardContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    width: 610px;
+    background-color: aliceblue;
+    border: 2px solid rgb(182, 209, 232);
+    border-radius: 20px;
+}
